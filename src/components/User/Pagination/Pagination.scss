@@ -1,0 +1,17 @@
+.pagination {
+    text-align: center;
+    margin-top: 4.5rem;
+}
+.btn-pagina {
+    background-color: var(--color2);
+    padding: 5px 1rem;
+    cursor: pointer;
+    margin: 0 5px;
+    border-radius: 5px;
+    border: 0;
+}
+.bnt-active {
+    background-color: #333;
+    color: #fff;
+    border: 2px solid #333;
+}

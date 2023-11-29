@@ -1,0 +1,23 @@
+/* styles.css */
+
+.dashboard-container {
+  margin-top: 20px;
+}
+
+.main-category {
+  padding: 20px;
+}
+
+.add-btn-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.staff-table {
+  margin-top: 20px;
+}
+
+.edit-btn,
+.delete-btn {
+  margin-right: 5px;
+}

@@ -1,0 +1,23 @@
+.wrap-sidebar {
+    // margin: 0 50px 50px;
+    // display: flex;
+    max-width: 1200px;
+    margin: 0 auto 50px;
+    display: flex;
+    .sidebar {
+        width: 20%;
+        border-right: 1px solid #ccc;
+        padding-right: 20px;
+    }
+    .products {
+        width: 80%;
+        margin-top: 16px;
+        padding: 0 20px;
+    }
+}
+
+.cart-btn {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}

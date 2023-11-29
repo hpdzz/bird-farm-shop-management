@@ -1,0 +1,59 @@
+/* editProduct.css */
+.edit-products-container {
+  display: flex;
+  align-items: center;
+  margin-left: 25%;
+  height: 100vh; 
+  width: 30%;
+
+}
+
+.main-edit-product {
+  display: flex;
+}
+
+.edit-product-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  width: 400%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.edit-form {
+  width: 100%;
+}
+
+.form-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 40%;
+}
+
+.form-group {
+  margin: 0px 0; /* Điều chỉnh lề để làm cho nó nhỏ hơn */
+  width: 200%;
+}
+
+.update-btn {
+  text-align: center;
+  margin: 0px 0; /* Điều chỉnh lề để làm cho nó nhỏ hơn */
+}
+
+.cancel-btn {
+  text-align: center;
+  margin: 0px 0; /* Điều chỉnh lề để làm cho nó nhỏ hơn */
+}
+
+.edit-product-container label,
+.edit-product-container input,
+.edit-product-container textarea,
+.edit-product-container select {
+  font-size: 20px; /* Giảm kích thước phông chữ để làm cho biểu mẫu nhỏ hơn */
+}

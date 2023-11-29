@@ -1,0 +1,24 @@
+.edit-category-container {
+    display: flex;
+  }
+  .main-edit-category{
+    background-color: white;
+    margin-top: 15%;
+  }
+  .edit-category-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  .form-group {
+    margin: 20px 0;
+  }
+  
